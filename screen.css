@@ -13,14 +13,7 @@ nav ul {
   padding: 0;
 }
 
-header {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-  padding: 15px 30px;
-}
-
 .logo {
-  height: 50px;
+  height: 30px;
   width: auto;
 }

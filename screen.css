@@ -34,8 +34,8 @@ header {
 }
 
 .Building {
-  height: 800px;
-  width: 800px;
+  height: 600px;
+  width: 600px;
   margin-right: 40px;
   display: flex;
 }

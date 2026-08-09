@@ -5,6 +5,7 @@ nav img {
 }
 
 nav ul {
+  display: flex;
   list-style: none;
   margin: 20;
   padding: 0;

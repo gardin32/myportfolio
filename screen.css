@@ -27,6 +27,11 @@ header {
   width: 100%;
 }
 
+img {
+  width: 200px;
+  height: auto;
+}
+
 .Map {
   height: 600px;
   width: 600px;
@@ -39,7 +44,4 @@ header {
   margin-right: 40px;
   display: flex;
 }
-img {
-  width: 200px;
-  height: auto;
-}
+

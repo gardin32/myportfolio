@@ -28,13 +28,13 @@ header {
 }
 
 .Map {
-  height: 50 px;
-  width: auto;
+  height: 200px;
+  width: 200px;
   margin-left: 40px;
 }
 
 .Building {
-  height: 50 px;
+  height: 200px;
   width: auto;
   margin-right: 40px;
   display: flex;

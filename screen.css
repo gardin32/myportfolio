@@ -39,3 +39,9 @@ header {
   margin-right: 40px;
   display: flex;
 }
+
+.image-pair img {
+  flex: 1;
+  width: 100%;
+  object-fit: cover;
+}

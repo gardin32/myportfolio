@@ -26,3 +26,9 @@ header {
   padding: 15px 15px;
   width: 100%;
 }
+
+.Map {
+  height: 400 px;
+  width: auto;
+  margin-left: 40px;
+}

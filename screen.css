@@ -32,3 +32,10 @@ header {
   width: auto;
   margin-left: 40px;
 }
+
+.Building {
+  height: 50 px;
+  width: auto;
+  margin-right: 40px;
+  display: flex;
+}

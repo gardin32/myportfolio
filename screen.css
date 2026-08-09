@@ -51,4 +51,5 @@ header {
   gap: 15px;
   width: auto;
   height: 200px; 
+  object-fit: contain;
 }

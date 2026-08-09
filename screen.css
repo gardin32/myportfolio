@@ -1,3 +1,9 @@
 nav a.active img {
   border-bottom: 2px solid #333;
 }
+
+nav img {
+  width: 40px;
+  height: 40px;
+  object-fit: contain;
+}

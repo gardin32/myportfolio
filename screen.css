@@ -52,37 +52,37 @@ header {
 }
 
 .Annv {
-  height: 100px;
+  height: 200px;
   width: auto;
   object-fit: contain;
 }
 
 .Birthday {
-  height: 300px;
+  height: 200px;
   width: auto;
   object-fit: contain;
 }
 
 .Class {
-  height: 300px;
+  height: 200px;
   width: auto;
   object-fit: contain;
 }
 
 .Grad {
-  height: 300px;
+  height: 200px;
   width: auto;
   object-fit: contain;
 }
 
 .Rehearsal {
-  height: 300px;
+  height: 200px;
   width: auto;
   object-fit: contain;
 }
 
 .Web {
-  height: 300px;
+  height: 200px;
   width: auto;
   object-fit: contain;
 }

@@ -71,7 +71,7 @@ header {
 
 .Grad {
   height: 200px;
-  width: 400px;
+  width: auto;
   object-fit: contain;
 }
 
@@ -90,13 +90,4 @@ header {
 body {
   font-family:monospace;
   font-size: large;
-}
-
-h2 {
-  margin-top: 30px;
-  margin-bottom: 10px;
-}
-
-li {
-  margin-bottom: 10px;
 }
